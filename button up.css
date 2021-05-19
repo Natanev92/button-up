@@ -1,0 +1,21 @@
+button {display:block;}
+.box-1{
+color:aquamarine;
+border-radius: 30px;
+width: 100px;
+}
+
+.box-2{
+color: white;
+background-color: aquamarine;
+border: none;
+border-radius: 50%;
+
+}
+
+.box-3{
+color: white;
+background-color: cornflowerblue;
+box-shadow: 2px 2px;
+
+}
